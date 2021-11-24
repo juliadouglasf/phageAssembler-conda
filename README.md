@@ -1,2 +1,2 @@
 # phageAssembler-conda
-Conda environment files for use of SEA-PHAGES phageAssembler
+Conda environment file for use of SEA-PHAGES phageAssembler
